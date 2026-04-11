@@ -1,8 +1,8 @@
-# ☕ Prog1 - Java Fundamentals
+#  Prog1 - Java Fundamentals
 
 Bu depo, üniversite 1. sınıf (Prog1) programlama dersi kapsamında Java ile geliştirilen temel seviye projeleri ve algoritma alıştırmalarını içermektedir. Bu kodlar; temel programlama mantığını, kontrol yapılarını ve algoritmik düşünme becerilerini pekiştirmek amacıyla yazılmıştır.
 
-## 📂 İçindekiler (Projeler)
+##  İçindekiler (Projeler)
 
 Aşağıdaki listeden ilgili projenin klasörüne giderek kodları ve detayları inceleyebilirsiniz:
 
@@ -11,7 +11,7 @@ Aşağıdaki listeden ilgili projenin klasörüne giderek kodları ve detayları
 * *(Örnek: Hesap Makinesi Algoritması)*
 * *(Örnek: Dizi ve Döngü Alıştırmaları)*
 
-## 🛠️ Kullanılan Teknolojiler ve Konular
+##  Kullanılan Teknolojiler ve Konular
 
 * **Programlama Dili:** Java
 * **Temel Konular:** * Karar Yapıları (If-Else, Switch-Case)

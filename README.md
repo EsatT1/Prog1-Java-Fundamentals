@@ -7,14 +7,14 @@ Bu depo, üniversite 1. sınıf Programlama Dilleri dersi kapsamında Java ile g
 Aşağıdaki listeden ilgili projenin klasörüne giderek kodları ve detayları inceleyebilirsiniz:
 
 * **[ATM Projesi](./ATM-Project--main):** `switch-case` ve `if-else` yapıları kullanılarak geliştirilmiş, temel bankacılık işlemlerini (para çekme, yatırma, bakiye sorgulama) simüle eden konsol tabanlı uygulama.
-* *(Buraya yeni dosyalar yükledikçe ekleme yapacağız)*
-* *(Örnek: Hesap Makinesi Algoritması)*
-* *(Örnek: Dizi ve Döngü Alıştırmaları)*
+* **[Not Hesaplama Sistemi](./GradeCalculator):** Vize/Final ağırlıklı ortalama hesaplayan ve final barajı mantığına sahip Java algoritması.
+* 
 
 ##  Kullanılan Teknolojiler ve Konular
 
 * **Programlama Dili:** Java
-* **Temel Konular:** * Karar Yapıları (If-Else, Switch-Case)
+* **Temel Konular:**
+  * Karar Yapıları (If-Else, Switch-Case)
   * Döngüler (For, While, Do-While)
   * Diziler (Arrays)
   * Temel Metotlar (Functions)

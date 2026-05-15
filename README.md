@@ -8,6 +8,7 @@ Aşağıdaki listeden ilgili projenin klasörüne giderek kodları ve detayları
 
 * **[ATM Projesi](./ATM-Project--main):** `switch-case` ve `if-else` yapıları kullanılarak geliştirilmiş, temel bankacılık işlemlerini (para çekme, yatırma, bakiye sorgulama) simüle eden konsol tabanlı uygulama.
 * **[Not Hesaplama Sistemi](./GradeCalculator):** Vize/Final ağırlıklı ortalama hesaplayan ve final barajı mantığına sahip Java algoritması.
+* **[Word Guessing Game](./Word%20Guessing%20Game):** String işlemleri ve döngü mantığı ile geliştirilmiş interaktif kelime tahmin oyunu.
 * 
 
 ##  Kullanılan Teknolojiler ve Konular

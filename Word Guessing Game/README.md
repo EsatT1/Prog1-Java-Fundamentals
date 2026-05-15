@@ -1,4 +1,4 @@
-#  Word Guessing Game (Kelime Tahmin Oyunu)
+#  Word Guessing Game 
 
 Bu proje, Java programlama dilinin temel prensiplerini, döngüleri ve `String` metotlarını pekiştirmek amacıyla geliştirilmiştir. 
 
